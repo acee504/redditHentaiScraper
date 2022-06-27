@@ -1,11 +1,9 @@
 import json
 import requests
-
 # Replace the replaceme below with the subreddit of your choice
-subreddit = "replaceme"
+subreddit = "hentai"
 
 url = f"https://www.reddit.com/r/{subreddit}.json"
-
 
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:87.0) Gecko/20100101 Firefox/87.0"
